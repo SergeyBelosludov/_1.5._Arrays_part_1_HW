@@ -156,6 +156,7 @@ public class Main {
                 System.out.print(integerArray[i] + ", ");
             else
                 System.out.print(integerArray[i]);
+
         }
     }
 }
